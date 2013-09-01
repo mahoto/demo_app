@@ -1,0 +1,1 @@
+This is the second application I am building through the Rails Tutorial
